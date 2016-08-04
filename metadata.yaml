@@ -1,0 +1,35 @@
+_repo: Cliges--A-Romance_2414
+_version: 0.0.1
+alternative_title: Cligés. English
+contributor:
+  translator:
+    agent_name: Gardiner, Laetitia Jane
+    gutenberg_agent_id: '903'
+    url: http://www.gutenberg.org/2009/agents/903
+creator:
+  author:
+    agent_name: Chrétien, de Troyes, active 12th century
+    aliases:
+    - Chretien, de Troyes, active 12th century
+    - De Troyes, Chrétien
+    - Troyes, Chrétien de
+    gutenberg_agent_id: '435'
+    url: http://www.gutenberg.org/2009/agents/435
+    wikipedia: http://en.wikipedia.org/wiki/Chr%C3%A9tien_de_Troyes
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Arthurian romances'
+- GITenberg
+title: 'Cliges: A Romance'
+url: http://www.gutenberg.org/ebooks/2414
